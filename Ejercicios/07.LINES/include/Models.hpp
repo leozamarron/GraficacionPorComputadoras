@@ -9,7 +9,7 @@
 
 class Models
 {
-protected:
+public:
     Models(){};
 
     vector<string> split(const string& str, const string& delim);
